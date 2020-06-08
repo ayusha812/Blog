@@ -1,0 +1,30 @@
+body {
+  border: 20px solid #721582;
+  width: 900px;
+  margin: 20px auto;
+  font-family: source sans pro;
+}
+
+h3 {
+  text-transform: uppercase;
+  color: #f5da64;
+  font-size: 1.1em;
+  word-spacing: 5px;
+}
+
+h1 {
+  color: #5c3f11;
+}
+
+hr {
+  border: 1px solid #cfc0ce;
+}
+
+.content {
+  padding: 20px;
+}
+
+.indent {
+  border-left: 4px solid #721582;
+  padding-left: 5px;
+}
